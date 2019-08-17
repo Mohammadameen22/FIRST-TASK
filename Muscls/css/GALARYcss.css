@@ -1,0 +1,146 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: 'Anton', sans-serif;
+font-family: 'Bree Serif', serif;
+}
+
+
+.header{
+	background-color: black;
+	width: auto;
+	height: 110px;
+}
+
+
+
+#logo{
+float: left;
+	height: 110px;
+	width: 190px;
+	margin-left: 30px;
+	opacity: 1;
+	border-radius: 40px;
+}
+
+.logoimg{
+	
+	float: left;
+	height: 110px;
+	width: 190px;
+	margin-left: 30px;
+	opacity: 1;
+	border-radius: 40px;
+
+
+}
+
+
+.a{
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	line-height: 110px;
+
+
+}
+
+#headnav{
+	word-spacing: 40px;
+	float: right;
+	margin-right: 90px;
+}
+
+.footer{
+
+	height: 110px;
+	width: auto;
+	background-color: 	#303030;
+	padding-top: 50px;
+
+}
+
+.textAli{
+	text-align: center;
+	margin-top:15px;
+}
+
+.contactimg{
+
+height: 25px;
+width: 25px;
+border-radius: 10px;
+margin-left: 10px;
+
+}
+
+.divfooter{
+	float: right;
+	padding-right: 170px;
+	margin-bottom: 10px;
+
+}
+
+.displayIB{
+	display: inline-block;
+
+
+}
+
+.colorwhite{
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.section1{
+	display: grid;
+	grid-template-columns: auto auto ;
+	grid-gap: 5px; 
+	background-image: url(../img/backGAL3.jpg);
+
+}
+
+.divs{
+
+text-align: right;
+margin: 60px;
+
+}
+
+.div{
+margin: 60px;
+
+
+}
+
+.imgs{
+	height: 450px;
+width: 450px;
+border-radius: 50px;
+}
+
+a:hover{
+	color:#00BFFF;
+}
+
+
+@keyframes move{
+
+	from{}
+	to{  
+	border-radius: 220px;  
+	border:7px solid white;
+
+
+	   }
+}
+
+.imgs:hover{
+	animation: move 3s ;
+	animation-duration: 3s ;
+}

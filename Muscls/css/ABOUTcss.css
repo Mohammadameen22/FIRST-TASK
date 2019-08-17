@@ -1,0 +1,155 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: 'Anton', sans-serif;
+font-family: 'Bree Serif', serif;
+}
+
+
+.header{
+	background-color: black;
+	width: auto;
+	height: 110px;
+
+}
+
+
+
+#logo{
+float: left;
+	height: 110px;
+	width: 190px;
+	margin-left: 30px;
+	opacity: 1;
+	border-radius: 40px;
+}
+
+.logoimg{
+	
+	float: left;
+	height: 110px;
+	width: 190px;
+	margin-left: 30px;
+	opacity: 1;
+	border-radius: 40px;
+
+
+}
+
+
+.a{
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	line-height: 110px;
+
+
+}
+
+#headnav{
+	word-spacing: 40px;
+	float: right;
+	margin-right: 90px;
+}
+
+.footer{
+
+	height: 100px;
+	width: auto;
+	background-color: 	#303030;
+	padding-top: 50px;
+
+}
+
+.textAli{
+	text-align: center;
+	margin-top:15px;
+}
+
+.contactimg{
+
+height: 25px;
+width: 25px;
+border-radius: 10px;
+margin-left: 10px;
+
+}
+
+.divfooter{
+	float: right;
+	padding-right: 170px;
+	margin-bottom: 10px;
+
+}
+
+.displayIB{
+	display: inline-block;
+
+
+}
+
+.colorwhite{
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.section1{
+
+	height: 700px;
+	width: 1350px;
+	background-image: url(../img/backABOUT.webp);
+	background-size: 1350px;
+	margin-left: -2px;
+}
+
+.container{
+	color: white;
+
+}
+
+.FD{
+	width:880px;
+	padding-left: 100px;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	word-spacing: 4px;
+	font-size: 19px;
+
+}
+
+.SD{
+	width:740px;
+	margin-left:  100px;
+	font-size: 19px;
+	word-spacing: 4px;
+	padding-top: 35px;
+}
+
+#about{
+	color: #00BFFF;
+	font-size: 40px;
+	width: 180px;
+	border-radius: 10px;
+	padding: 5px;
+	word-spacing: 10px;
+	
+}
+
+#mission{
+	color: #00BFFF;
+	font-size: 40px;
+}
+
+#p1{
+	padding-top: 5px;
+}
+
+a:hover{
+	color:#00BFFF;
+	
+}

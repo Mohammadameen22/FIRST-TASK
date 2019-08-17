@@ -1,0 +1,193 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: 'Anton', sans-serif;
+font-family: 'Bree Serif', serif;
+
+
+
+
+
+}
+
+
+.header{
+	background-color: black;
+
+	width: auto;
+	height: 110px;
+
+}
+
+
+
+#logo{
+float: left;
+	height: 110px;
+	width: 190px;
+	margin-left: 30px;
+	opacity: 1;
+	border-radius: 40px;
+
+}
+
+.logoimg{
+	
+	float: left;
+	height: 110px;
+	width: 190px;
+	margin-left: 30px;
+	opacity: 1;
+	border-radius: 40px;
+
+
+}
+
+
+.a{
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	line-height: 110px;
+
+
+}
+
+#headnav{
+	word-spacing: 40px;
+	float: right;
+	margin-right: 90px;
+}
+
+.footer{
+
+	height: 100px;
+	width: auto;
+	background-color: 	#303030;
+	padding-top: 50px;
+
+}
+
+.textAli{
+	text-align: center;
+	margin-top:15px;
+}
+
+.contactimg{
+
+height: 25px;
+width: 25px;
+border-radius: 10px;
+margin-left: 10px;
+
+}
+
+.divfooter{
+	float: right;
+	padding-right: 170px;
+	margin-bottom: 10px;
+
+}
+
+.displayIB{
+	display: inline-block;
+
+
+}
+
+.colorwhite{
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.sec{
+background-image: url(../img/grayimg.jpg);
+}
+
+#form{
+	 background-color: 		#202020;
+	  margin-left: 240px;
+	   height: 950px; 
+	   width: 900px; 
+	   text-align: left;
+}
+
+#CU{
+	font-size:55px;
+	margin-left: 35px;
+	padding-top: 25px;
+	color:	 #00BFFF;
+}
+
+#DROP{
+	font-size:35px;
+	margin-left: 35px;
+	padding-top: 25px;
+	color:	 #00BFFF;
+}
+
+.name{
+font-size:15px;
+	margin-left: 35px;
+	padding-top: 25px;
+	color:	 #00BFFF;
+
+}
+
+.WH{
+	height: 15px;
+	width: 450px;
+	margin-top: 3px;
+	margin-left: 35px;
+	padding-top: 15px;
+	color:	 #00BFFF;
+
+}
+
+option{
+	color:black;
+}
+
+.h{
+	margin-top: 3px;
+	margin-left: 35px;
+	padding-top: 15px;
+	color:	 #00BFFF;
+    height:150px;
+    width: 450px;
+}
+
+.marg{
+	margin-top: 33px;
+	margin-left: 35px;
+}
+
+#B{
+	border-radius:15px;
+	width: 120px;
+	height: 45px;
+		margin-top:3px;
+	margin-left: 35px;
+	font-weight: bolder;
+	color :white;
+	background-color: #595959;
+}
+
+#B:hover{
+	border:3px solid  #00BFFF;
+	color:  #00BFFF;
+	background-color: black;
+	font-weight: bolder;
+
+}
+
+
+a:hover{
+	color:#00BFFF;
+	
+}
